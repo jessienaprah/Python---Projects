@@ -1,0 +1,3 @@
+This project is about using machine learning to predict and recommend whether an individual should seek mental health help based on survey responses. 
+The dataset used records a global survey conducted to track trends in mental health. It covers a range of variables such as levels of stress, depression, anxiety, subjective well-being, and use of mental health services. 
+The survey involved respondents from various demographic backgrounds, including gender, employment status, and geographic region. It aims to provide a better understanding of changes in mental health globally over the specified time period.
